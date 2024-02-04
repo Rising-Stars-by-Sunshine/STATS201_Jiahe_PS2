@@ -9,4 +9,4 @@ Content
 - data
   - covid_19_clean_data.csv
   - README.md
-- ADME.md
+- README.md
