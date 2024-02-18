@@ -1,10 +1,33 @@
-This dataset appears to be a record of COVID-19 cases by province/state, country/region, latitude, longitude, date, and various other metrics such as confirmed cases, deaths, recovered cases, and active cases. Each row represents a specific location (province/state and country/region) on a particular date, and the corresponding COVID-19 statistics for that location at that time.
+### Lung Cancer Dataset Description
 
-The dataset includes information about the COVID-19 situation in various countries and regions around the world, with specific details such as geographical coordinates (latitude and longitude), date of observation, and counts of confirmed cases, deaths, recovered cases, and active cases.
+The dataset contains information about various factors related to lung cancer for different patients. Each row represents a different patient, and the columns represent different attributes or features related to lung cancer risk factors.
 
-It seems to cover a wide range of regions, including countries like Afghanistan, Albania, Algeria, Andorra, Angola, Argentina, Armenia, Australia (including different states), and Austria, among others.
+- **Patient Id**: Unique identifier for each patient.
+- **Age**: Age of the patient.
+- **Gender**: Gender of the patient (1 for male, 2 for female).
+- **Air Pollution**: Level of exposure to air pollution.
+- **Alcohol use**: Level of alcohol consumption.
+- **Dust Allergy**: Presence of dust allergy.
+- **Occupational Hazards**: Exposure to occupational hazards.
+- **Genetic Risk**: Genetic predisposition to lung cancer.
+- **Chronic Lung Disease**: Presence of chronic lung disease.
+- **Balanced Diet**: Adherence to a balanced diet.
+- **Obesity**: Presence of obesity.
+- **Smoking**: Smoking habits.
+- **Passive Smoker**: Exposure to second-hand smoke.
+- **Chest Pain**: Presence of chest pain.
+- **Coughing of Blood**: Experience of coughing blood.
+- **Fatigue**: Level of fatigue experienced.
+- **Weight Loss**: Unintentional weight loss.
+- **Shortness of Breath**: Difficulty in breathing.
+- **Wheezing**: Presence of wheezing.
+- **Swallowing Difficulty**: Difficulty in swallowing.
+- **Clubbing of Finger Nails**: Presence of clubbing of finger nails.
+- **Frequent Cold**: Frequency of cold episodes.
+- **Dry Cough**: Experience of dry cough.
+- **Snoring**: Presence of snoring.
+- **Level**: Risk level of lung cancer (Low, Medium, High).
 
-Additionally, it includes the WHO region to which each country belongs, providing further context about the geographical distribution of the data. The WHO regions mentioned include Eastern Mediterranean, Europe, Africa, Americas, and Western Pacific. 
+This dataset can be utilized for various analyses and predictive modeling tasks related to lung cancer risk assessment and management.
 
-Overall, this dataset provides a detailed record of COVID-19 cases across different locations and time periods, allowing for analysis and tracking of the pandemic's spread and impact.
 
