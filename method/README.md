@@ -54,6 +54,10 @@ Performance metrics such as accuracy, precision, recall, and F1 score will be us
 #### Iterative Improvement
 The model will undergo iterative refinement through techniques such as hyperparameter tuning, feature selection, and cross-validation to enhance its predictive accuracy and generalizability. Feedback from model evaluation metrics will guide the adjustment of model parameters and strategies for improving performance.
 
+### Flowchart
+![image](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_PS2/assets/154964920/6aaa4edd-8130-4d36-adb6-9a024c051391)
+
+
 ### Reference
 - Vedire, Y., Kalvapudi, S., & Yendamuri, S. "Obesity and lung cancer-a narrative review." Journal of Thoracic Disease 15, no. 5 (2023): 2806-2823. https://doi.org/10.21037/jtd-22-1835.
 
