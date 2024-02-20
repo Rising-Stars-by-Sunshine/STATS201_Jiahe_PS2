@@ -1,9 +1,9 @@
 ### Lung Cancer Dataset Description
 
 The dataset contains information about various factors related to lung cancer for different patients. Each row represents a different patient, and the columns represent different attributes or features related to lung cancer risk factors.
-
-- **Patient Id**: Unique identifier for each patient.
-- **Age**: Age of the patient.
+All the variables, except the ones that are specially marked, are integers ranging from 1 to 9, with 9 the highest and 1 the lowest. Here are the specific definitions of the variables:  
+- **Patient Id**: Unique identifier for each patient (serial numbers).
+- **Age**: Age of the patient (ranging from 14 to 73).
 - **Gender**: Gender of the patient (1 for male, 2 for female).
 - **Air Pollution**: Level of exposure to air pollution.
 - **Alcohol use**: Level of alcohol consumption.
